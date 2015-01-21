@@ -44,7 +44,9 @@ cacheSolve <- function(x, ...) {
 }
 
 
-
+## http://www.r-bloggers.com/closures-in-r-a-useful-abstraction/
+## http://adv-r.had.co.nz/Environments.html
+## discussion forum
 
 ## use:
 b<- makeCacheMatrix()
